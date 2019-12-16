@@ -1,0 +1,1 @@
+Logout has been completed successfully
