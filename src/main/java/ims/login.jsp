@@ -15,7 +15,7 @@ body {
 /* Add padding to containers */
 .container {
   padding: 16px;
-  background-color: White;
+  background-color: Red;
 }
 
 /* Full-width input fields */
